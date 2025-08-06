@@ -42,8 +42,8 @@ export default function Page() {
       <header className="fixed top-0 w-full bg-white/90 backdrop-blur-lg z-50 border-b border-gray-200 shadow-sm">
         <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex justify-between items-center">
-            <div className="text-2xl font-bold bg-gradient-to-r from-primary to-purple text-transparent bg-clip-text">
-              김개발
+            <div className="text-2xl font-bold bg-gradient-to-r from-lime-500 to-green-500 text-transparent bg-clip-text">
+              박주형
             </div>
             
             {/* Desktop Menu */}
@@ -129,8 +129,8 @@ export default function Page() {
             
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-8 tracking-tight leading-tight">
               <span className="block text-gray-800 mb-2">풀스택 개발자</span>
-              <span className="block bg-gradient-to-r from-primary via-purple to-secondary bg-clip-text text-transparent">
-                김개발
+              <span className="block bg-gradient-to-r from-lime-500 via-green-500 to-emerald-500 bg-clip-text text-transparent">
+                박주형
               </span>
               <span className="block text-gray-600 text-2xl sm:text-3xl md:text-4xl lg:text-5xl mt-4">
                 입니다
@@ -445,8 +445,8 @@ export default function Page() {
         <div className="max-w-7xl w-full">
           <div className="text-center">
             <div className="mb-6">
-              <h3 className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-primary-light to-secondary bg-clip-text text-transparent mb-4">
-                김개발
+              <h3 className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-lime-400 to-green-500 bg-clip-text text-transparent mb-4">
+                박주형
               </h3>
               <p className="text-gray-400 text-lg max-w-2xl mx-auto">
                 더 나은 웹 경험을 만들어가는 개발자
@@ -480,7 +480,7 @@ export default function Page() {
             
             <div className="border-t border-gray-700 pt-8">
               <p className="text-gray-400 text-base sm:text-lg">
-                © {new Date().getFullYear()} 김개발. All rights reserved.
+                © {new Date().getFullYear()} 박주형. All rights reserved.
               </p>
               <p className="text-gray-500 text-sm mt-2">
                 Made with ❤️ using <span className="text-primary-light">Next.js</span> & <span className="text-secondary">Tailwind CSS</span>

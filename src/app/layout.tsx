@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | 김개발",
-  description: "풀스택 개발자 김개발의 포트폴리오 웹사이트입니다.",
+  title: "Portfolio | 박주형",
+  description: "풀스택 개발자 박주형의 포트폴리오 웹사이트입니다.",
 };
 
 export default function RootLayout({
